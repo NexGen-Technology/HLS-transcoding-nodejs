@@ -66,3 +66,8 @@ PRs are welcome.
 - [Guide for iOS and Android](https://mux.com/blog/mobile-hls-guide/)
 - [Sample m3u8 playlists](https://g33ktricks.blogspot.com/2016/04/list-of-hls-streaming-video-sample-test.html)
 - [Serving video at scale](https://www-sjc.egnyte.com/blog/2018/12/transcoding-how-we-serve-videos-at-scale/)
+
+
+# To run this 
+## npm run server
+### wait until it generate file m3u8 
